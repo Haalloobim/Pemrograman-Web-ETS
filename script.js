@@ -88,9 +88,6 @@ let card11 = (json) => {
     name11.innerHTML = name; 
     id11.innerHTML = id; 
 }
-
-
-
 let load = () => {
     let xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function (){
