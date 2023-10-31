@@ -1,4 +1,4 @@
-let url = "http://159.223.51.203/api/bio"; 
+let url = "http://159.223.51.203:443/api/bio"; 
 
 let card1 = (json) => {
     let name = json[0].name; 
